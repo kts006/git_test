@@ -7,4 +7,5 @@ if __name__ == '__main__':
     print("Third~")
     print("fourth~")
     print("fifth~")
-
+    print("sixth~")
+    print("seventh~")
