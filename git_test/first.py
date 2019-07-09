@@ -5,4 +5,6 @@ if __name__ == '__main__':
     print("First~")
     print("Second~")
     print("Third~")
+    print("fourth~")
+    print("fifth~")
 
