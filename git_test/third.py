@@ -3,3 +3,4 @@
 
 if __name__ == '__main__':
     print("This is Third file")
+    print('abcdef')
